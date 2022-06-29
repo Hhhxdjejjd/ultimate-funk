@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bo bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so you wanna learn to rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "well you cams to the right guy"
+		}
+	]
+}
