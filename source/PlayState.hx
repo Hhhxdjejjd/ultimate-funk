@@ -1303,7 +1303,7 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 
 				case 'how to funk':
-				     startDialogue(dialogueJson)
+				     startDialogue(dialogueJson);
 
 				case 'ugh' | 'guns' | 'stress':
 					tankIntro();
