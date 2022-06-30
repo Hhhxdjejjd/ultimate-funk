@@ -1302,7 +1302,7 @@ class PlayState extends MusicBeatState
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 
-				case 'how to funk':
+				case 'how-to-funk':
 				     startDialogue(dialogueJson);
 
 				case 'ugh' | 'guns' | 'stress':
