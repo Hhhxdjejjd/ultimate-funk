@@ -250,7 +250,7 @@ class StoryMenuState extends MusicBeatState
 			}
 
 			if (controls.UI_RIGHT)
-				rightArrow.animation.play('press')
+				rightArrow.animation.play('press');
 			else
 				rightArrow.animation.play('idle');
 
@@ -268,7 +268,7 @@ class StoryMenuState extends MusicBeatState
 				if (controls.UI_RIGHT)
 				        leftArrow.animation.play('press');
 				else
-				        leftArrow.animation.play('idle')
+				        leftArrow.animation.play('idle');
 			    if (controls.UI_RIGHT_P)				
 				        changeDifficulty(1);			
 				else if (controls.UI_LEFT_P)				
